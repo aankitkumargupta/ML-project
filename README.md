@@ -1,4 +1,4 @@
-# Transfer Learning for Image Classifier
+# Transfer Learning for Image Classification
 # Overview: 
 This repository contains the code and resources for building a machine learning classifier that distinguishes between images of ants and bees. The project utilizes a dataset consisting of 403 images, with features extracted using the ResNet-18 convolutional neural network.
 
